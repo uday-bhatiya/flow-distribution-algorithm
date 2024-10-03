@@ -33,7 +33,7 @@ Make sure you have these installed on your system.
  ```bash
 npm install
 
-# Running the Application
+## Running the Application
 
 To start the server, run:
 ```bash
@@ -41,9 +41,9 @@ npm start
 
 This will start the server at http://localhost:3000.
 
-# API EndpointsRunning the Applicationnpm start
+## API EndpointsRunning the Applicationnpm start
 
-# Project Structure
+## Project Structure
 flow-distribution-algorithm/
 │
 ├── src/
@@ -64,7 +64,7 @@ flow-distribution-algorithm/
 -**src/controllers/**: Contains the distribution logic.
 -**tests/**: Contains the test cases to validate the distribution algorithm.
 
-# Future Improvements
+## Future Improvements
 -**Scalability**: Implement more advanced algorithms to handle a larger number of users and astrologers.
 -**Database Integration**: Add support for a database (e.g., MongoDB ) to store astrologer and user data persistently.
 -
