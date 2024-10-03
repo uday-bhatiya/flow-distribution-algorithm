@@ -25,6 +25,7 @@ Make sure you have these installed on your system.
 **Clone the repository** or download the project files:
    ```bash
    git clone https://github.com/uday-bhatiya/flow-distribution-algorithm
+```
 
    Install dependencies: Run the following command in the root of the project:
 
@@ -32,13 +33,14 @@ Make sure you have these installed on your system.
 1.** Install dependencies**: Run the following command in the root of the project 
  ```bash
 npm install
+```
 
 ## Running the Application
 
 To start the server, run:
 ```bash
 npm start
-
+```
 This will start the server at http://localhost:3000.
 
 ## API EndpointsRunning the Applicationnpm start
