@@ -48,19 +48,6 @@ This will start the server at http://localhost:3000.
 ## Project Structure
 
 flow-distribution-algorithm/
-│
-├── src/
-│   ├── models/
-│   │   └── astrologer.model.js
-│   │   └── user.model.js
-│   ├── routes/
-│   │   └── distribution.route.js
-│   ├── controllers/
-│   │   └── distribution.controller.js
-│   └── server.js
-│
-└── tests/
-    └── distribution.test.js
 
 -**src/models/**: Contains the models for astrologers and users.
 -**src/routes/**: Defines the API routes.
